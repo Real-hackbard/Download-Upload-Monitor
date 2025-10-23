@@ -35,8 +35,8 @@ In {telecommunications](https://en.wikipedia.org/wiki/Telecommunications), data 
 | [bit per second](https://en.wikipedia.org/wiki/Bit_rate) |	bit/s	       | 1	             | 1                |
 | [kilobit per second](https://en.wikipedia.org/wiki/Data-rate_units#Kilobit_per_second) | kbit/s    | [10<sup>3</sup>](https://en.wikipedia.org/wiki/1000_(number))  | [1000<sup>1</sup>](https://en.wikipedia.org/wiki/1000_(number)) |
 | [megabit per second](https://en.wikipedia.org/wiki/Data-rate_units#Megabit_per_second) | Mbit/s    | [10<sup>6</sup>](https://en.wikipedia.org/wiki/1,000,000)  | [1000<sup>2</sup>](https://en.wikipedia.org/wiki/1,000,000) |
-| gigabit per second | Gbit/s    | 10<sup>3</sup>  | 1000<sup>3</sup> |
-| terabit per second | Tbit/s    | 10<sup>12</sup> | 1000<sup>4</sup> |
+| [gigabit per second](https://en.wikipedia.org/wiki/Data-rate_units#Gigabit_per_second) | Gbit/s    | [10<sup>3</sup>](https://en.wikipedia.org/wiki/1,000,000,000)  | [1000<sup>3</sup>](https://en.wikipedia.org/wiki/1,000,000,000) |
+| [terabit per second](https://en.wikipedia.org/wiki/Data-rate_units#Terabit_per_second) | Tbit/s    | [10<sup>12</sup>](https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)#1012) | [1000<sup>4</sup>](https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)#1012) |
 
 
 
