@@ -38,8 +38,6 @@ In {telecommunications](https://en.wikipedia.org/wiki/Telecommunications), data 
 | [gigabit per second](https://en.wikipedia.org/wiki/Data-rate_units#Gigabit_per_second) | Gbit/s    | [10<sup>3</sup>](https://en.wikipedia.org/wiki/1,000,000,000)  | [1000<sup>3</sup>](https://en.wikipedia.org/wiki/1,000,000,000) |
 | [terabit per second](https://en.wikipedia.org/wiki/Data-rate_units#Terabit_per_second) | Tbit/s    | [10<sup>12</sup>](https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)#1012) | [1000<sup>4</sup>](https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)#1012) |
 
-</br>
-
 ### [Binary prefixes (IEC 80000-13)](https://en.wikipedia.org/wiki/Binary_prefix):
 
 </br>
