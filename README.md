@@ -125,4 +125,12 @@ In {telecommunications](https://en.wikipedia.org/wiki/Telecommunications), data 
     * 8 terabits per second
 
 
+### Upload:
+Uploading refers to transmitting data from one computer system to another through means of a network. Common methods of uploading include: uploading via [web browsers](https://en.wikipedia.org/wiki/Web_browser), FTP [clients](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), and terminals (SCP/SFTP). Uploading can be used in the context of (potentially many) clients that send files to a central server. While uploading can also be defined in the context of sending files between distributed clients, such as with a [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) (P2P) file-sharing [protocol](https://en.wikipedia.org/wiki/Communication_protocol) like BitTorrent, the term [file sharing](https://en.wikipedia.org/wiki/File_sharing) is more often used in this case. Moving files within a computer system, as opposed to over a network, is called file copying.
+
+Uploading directly contrasts with downloading, where data is received over a network. In the case of users uploading files over the internet, uploading is often slower than downloading as many [internet service providers](https://en.wikipedia.org/wiki/Internet_service_provider) (ISPs) offer [asymmetric connections](https://en.wikipedia.org/wiki/ADSL), which offer more network bandwidth for downloading than uploading.
+
+
+
+
 
