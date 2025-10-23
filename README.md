@@ -128,9 +128,21 @@ In {telecommunications](https://en.wikipedia.org/wiki/Telecommunications), data 
 ### Upload:
 Uploading refers to transmitting data from one computer system to another through means of a network. Common methods of uploading include: uploading via [web browsers](https://en.wikipedia.org/wiki/Web_browser), FTP [clients](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), and terminals (SCP/SFTP). Uploading can be used in the context of (potentially many) clients that send files to a central server. While uploading can also be defined in the context of sending files between distributed clients, such as with a [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) (P2P) file-sharing [protocol](https://en.wikipedia.org/wiki/Communication_protocol) like BitTorrent, the term [file sharing](https://en.wikipedia.org/wiki/File_sharing) is more often used in this case. Moving files within a computer system, as opposed to over a network, is called file copying.
 
-Uploading directly contrasts with downloading, where data is received over a network. In the case of users uploading files over the internet, uploading is often slower than downloading as many [internet service providers](https://en.wikipedia.org/wiki/Internet_service_provider) (ISPs) offer [asymmetric connections](https://en.wikipedia.org/wiki/ADSL), which offer more network bandwidth for downloading than uploading.
+Uploading directly contrasts with downloading, where data is received over a network. In the case of users uploading files over the internet, uploading is often slower than downloading as many [internet service providers](https://en.wikipedia.org/wiki/Internet_service_provider) (ISPs) offer [asymmetric connections](https://en.wikipedia.org/wiki/ADSL), which offer more network [bandwidth](https://en.wikipedia.org/wiki/Bandwidth_(computing)) for downloading than uploading.
+
+### Notification:
+As the information brought by web server monitoring services is in most cases urgent and may be of crucial importance, various notification methods may be used: e-mail, landline and cell phones, messengers, SMS, fax, pagers, etc.
 
 
+* [Network tap](https://en.wikipedia.org/wiki/Network_tap)
+* [Network traffic measurement](https://en.wikipedia.org/wiki/Network_traffic_measurement)
+* [Business service management](https://en.wikipedia.org/wiki/Data_center_management#Business-service_management)
+* [Comparison of network monitoring systems](https://en.wikipedia.org/wiki/Comparison_of_network_monitoring_systems)
+* [High availability](https://en.wikipedia.org/wiki/High_availability)
+* [LOBSTER](https://en.wikipedia.org/wiki/LOBSTER), a European network monitoring system
+* [Network monitoring interface card](https://en.wikipedia.org/wiki/Network_monitoring_interface_card)
+* [System monitor](https://en.wikipedia.org/wiki/System_monitor)
+* [Service-level agreement](https://en.wikipedia.org/wiki/Service-level_agreement)
 
 
 
