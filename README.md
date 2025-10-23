@@ -49,7 +49,80 @@ In {telecommunications](https://en.wikipedia.org/wiki/Telecommunications), data 
 | [gibibit per second](https://en.wikipedia.org/wiki/Data-rate_units#Gigabit_per_second) | Gibit/s       | [2<sup>30</sup>](https://en.wikipedia.org/wiki/Power_of_two#Powers_of_1024)       | [1024<sup>3</sup>](https://en.wikipedia.org/wiki/Power_of_two#Powers_of_1024) |
 | [tebibit per second](https://en.wikipedia.org/wiki/Data-rate_units#Terabit_per_second) | Tibit/s       | [2<sup>40</sup>](https://en.wikipedia.org/wiki/Power_of_two#Powers_of_1024)       | [1024<sup>4</sup>](https://en.wikipedia.org/wiki/Power_of_two#Powers_of_1024) |
 
+> ### Decimal multiples of bits
+> These units are often used in a manner inconsistent with the IEC standard.
 
+### Kilobit per second:
+* Kilobit per second (symbol kbit/s or kb/s, often abbreviated "kbps") is a unit of data transfer rate equal to:
+    * 1,000 bits per second
+    * 125 bytes per second
+
+### Megabit per second:
+* Megabit per second (symbol Mbit/s or Mb/s, often abbreviated "Mbps") is a unit of data transfer rate equal to:
+    * 1,000 kilobits per second
+    * 1,000,000 bits per second
+    * 125,000 bytes per second
+    * 125 kilobytes per second
+
+### Gigabit per second:
+* Gigabit per second (symbol Gbit/s or Gb/s, often abbreviated "Gbps") is a unit of data transfer rate equal to:
+    * 1,000 megabits per second
+    * 1,000,000 kilobits per second
+    * 1,000,000,000 bits per second
+    * 125,000,000 bytes per second
+    * 125 megabytes per second
+
+### Terabit per second:
+* Terabit per second (symbol Tbit/s or Tb/s, sometimes abbreviated "Tbps") is a unit of data transfer rate equal to:
+    * 1,000 gigabits per second
+    * 1,000,000 megabits per second
+    * 1,000,000,000 kilobits per second
+    * 1,000,000,000,000 bits per second
+    * 125,000,000,000 bytes per second
+    * 125 gigabytes per second
+
+### Petabit per second:
+* Petabit per second (symbol Pbit/s or Pb/s, sometimes abbreviated "Pbps") is a unit of data transfer rate equal to:
+    * 1,000 terabits per second
+    * 1,000,000 gigabits per second
+    * 1,000,000,000 megabits per second
+    * 1,000,000,000,000 kilobits per second
+    * 1,000,000,000,000,000 bits per second
+    * 125,000,000,000,000 bytes per second
+    * 125 terabytes per second
+
+> ### Decimal multiples of bytes:
+> These units are often not used in the suggested ways; see § Variations.
+
+### Kilobyte per second:
+* kilobyte per second (kB/s) (sometimes abbreviated "kBps") is a unit of data transfer rate equal to:
+    * 8,000 bits per second
+    * 1,000 bytes per second
+    * 8 kilobits per second
+
+### Megabyte per second:
+* megabyte per second (MB/s) (can be abbreviated as MBps) is a unit of data transfer rate equal to:
+    * 8,000,000 bits per second
+    * 1,000,000 bytes per second
+    * 1,000 kilobytes per second
+    * 8 megabits per second
+
+### Gigabyte per second:
+* gigabyte per second (GB/s) (can be abbreviated as GBps) is a unit of data transfer rate equal to:
+    * 8,000,000,000 bits per second
+    * 1,000,000,000 bytes per second
+    * 1,000,000 kilobytes per second
+    * 1,000 megabytes per second
+    * 8 gigabits per second
+
+### Terabyte per second:
+* terabyte per second (TB/s) (can be abbreviated as TBps) is a unit of data transfer rate equal to:
+    * 8,000,000,000,000 bits per second
+    * 1,000,000,000,000 bytes per second
+    * 1,000,000,000 kilobytes per second
+    * 1,000,000 megabytes per second
+    * 1,000 gigabytes per second
+    * 8 terabits per second
 
 
 
