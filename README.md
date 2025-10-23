@@ -44,8 +44,12 @@ In {telecommunications](https://en.wikipedia.org/wiki/Telecommunications), data 
 
 </br>
 
-
-
+| Name               | Symbol        | Multiplicator   | Multiple         |
+| :----------------- | :-----------  | :-------------- | :--------------- |
+| [kibibit per second](https://en.wikipedia.org/wiki/Data-rate_units#Kilobit_per_second) | Kibit/s       | [2<sup>10</sup>](https://en.wikipedia.org/wiki/1024_(number))       | [1024<sup>1</sup>](https://en.wikipedia.org/wiki/1024_(number)) |
+| [mebibit per second](https://en.wikipedia.org/wiki/Data-rate_units#Megabit_per_second) | Mibit/s       | [2<sup>20</sup>](https://en.wikipedia.org/wiki/Power_of_two#Powers_of_1024)       | [1024<sup>2</sup>](https://en.wikipedia.org/wiki/Power_of_two#Powers_of_1024) |
+| gibibit per second | Gibit/s       | 2<sup>30</sup>       | 1024<sup>3</sup> |
+| tebibit per second | Tibit/s       | 2<sup>40</sup>       | 1024<sup>4</sup> |
 
 
 
