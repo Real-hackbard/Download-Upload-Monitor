@@ -24,4 +24,22 @@ Organizations often use a dedicated interface for all management traffic and thu
 
 In {telecommunications](https://en.wikipedia.org/wiki/Telecommunications), data rate units are commonly multiples of [bits per second](https://en.wikipedia.org/wiki/Bit_rate) (bit/s) and bytes per second (B/s). For example, the [data rates](https://en.wikipedia.org/wiki/Data_rate) of modern residential high-speed Internet connections are commonly expressed in megabits per second (Mbit/s). They are used as units of measurement for expressing data transfer rate, the average number of bits (bit rate), characters or symbols ([symbol rate](https://en.wikipedia.org/wiki/Symbol_rate)), or data blocks per unit time passing through a communication link in a data-transmission system.
 
+</br>
+
+| Name           | Symbol        | Multiplicator  | Multiple         |
+| :-----------   | :-----------  | :------------- | :--------------- |
+| bit per second |	bit/s	       | 1	            | 1                |
+| kilobit per second | kbit/s    | 10<sup>3</sup> | 1000<sup>1</sup> |
+| megabit per second | Mbit/s    | 10<sup>6</sup> | 1000<sup>2</sup> |
+| gigabit per second | Gbit/s    | 10<sup>3</sup> | 1000<sup>3</sup> |
+| Zelle 1,1     | Zelle 1,2     | Zelle 1,3     |
+| Zelle 2,1     | Zelle 2,2     | Zelle 2,3     |
+| Zelle 1,1     | Zelle 1,2     | Zelle 1,3     |
+| Zelle 2,1     | Zelle 2,2     | Zelle 2,3     |
+
+
+
+
+
+
 
