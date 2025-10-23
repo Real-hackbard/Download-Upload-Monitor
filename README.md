@@ -32,7 +32,7 @@ In {telecommunications](https://en.wikipedia.org/wiki/Telecommunications), data 
 
 | Name           | Symbol        | Multiplicator   | Multiple         |
 | :-----------   | :-----------  | :-------------- | :--------------- |
-| bit per second |	bit/s	       | 1	             | 1                |
+| [bit per second](https://en.wikipedia.org/wiki/Bit_rate) |	bit/s	       | 1	             | 1                |
 | kilobit per second | kbit/s    | 10<sup>3</sup>  | 1000<sup>1</sup> |
 | megabit per second | Mbit/s    | 10<sup>6</sup>  | 1000<sup>2</sup> |
 | gigabit per second | Gbit/s    | 10<sup>3</sup>  | 1000<sup>3</sup> |
